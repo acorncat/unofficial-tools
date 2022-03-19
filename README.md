@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/acorncat/unofficial-tools/blob/main/Tokenize-for-AIN.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/acorncat/unofficial-tools/blob/main/TokenizeForAIN.ipynb)
 
 概要
 ==
