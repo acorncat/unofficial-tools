@@ -24,7 +24,7 @@
 
 ライセンス - License
 ---
-
-spiece.model file:  
+下記のファイルを利用しています。  
+spiece.model:  
 Copyright 2021 Sta (https://huggingface.co/naclbit/gpt-j-japanese-6.8b)  
-Licensed under Apache-2.0 (https://www.apache.org/licenses/LICENSE-2.0.txt
+Lisensed under the Apache License, Version 2.0 (https://www.apache.org/licenses/LICENSE-2.0.txt)
